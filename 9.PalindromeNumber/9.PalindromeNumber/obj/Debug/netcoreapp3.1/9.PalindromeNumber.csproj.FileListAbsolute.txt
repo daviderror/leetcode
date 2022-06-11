@@ -1,0 +1,14 @@
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\bin\Debug\netcoreapp3.1\9.PalindromeNumber.exe
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\bin\Debug\netcoreapp3.1\9.PalindromeNumber.deps.json
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\bin\Debug\netcoreapp3.1\9.PalindromeNumber.runtimeconfig.json
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\bin\Debug\netcoreapp3.1\9.PalindromeNumber.runtimeconfig.dev.json
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\bin\Debug\netcoreapp3.1\9.PalindromeNumber.dll
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\bin\Debug\netcoreapp3.1\9.PalindromeNumber.pdb
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.AssemblyInfo.cs
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.dll
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.pdb
+C:\Users\Давид\source\repos\9.PalindromeNumber\9.PalindromeNumber\obj\Debug\netcoreapp3.1\9.PalindromeNumber.genruntimeconfig.cache
